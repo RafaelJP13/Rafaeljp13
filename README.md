@@ -1,4 +1,4 @@
-<h3 align="center">Web Dev from Brasil - São Vicente / SP</h3>
+<h3 align="center">Web Dev from Brazil - São Vicente / SP</h3>
 
 - 🌱 I’m currently learning **Fastify, Express, React**
 
