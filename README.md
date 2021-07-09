@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Fastify, Express, React**
 
-- 💬 Ask me about **Node.js, React, Express, Laravel, Codeigniter, AWS, Linux and Clean Code**
+- 💬 Ask me about **Node.js, Express, Laravel, Codeigniter, AWS, Mysql, Linux and Clean Code**
 
 - 📫 How to reach me **Rafaelsf013@gmail.com**
 
