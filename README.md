@@ -1,6 +1,6 @@
 <h3 align="center">Web Dev from Brazil - São Vicente / SP</h3>
 
-- 🌱 I’m currently learning **Fastify, Express, React**
+- 🌱 I’m currently learning **Linux, React and Express**
 
 - 💬 Ask me about **Node.js, Express, Laravel, Codeigniter, AWS, Mysql, Linux and Clean Code**
 
