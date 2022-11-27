@@ -1,7 +1,6 @@
 <h3 align="center">Web Dev from Brazil - São Vicente / SP</h3>
 
-- 💬 Ask me about **Node.js && Linux**
-- 
+- 💬 Ask me about **Node.js && Linux** 
 - 📫 How to reach me **Rafaelsf013@gmail.com**
 
 
