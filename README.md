@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor | from Brazil - São Vicente / SP</h3>
+<h3 align="center">Developer | from Brazil - São Vicente / SP</h3>
 
 - 💬 Ask me about **Node.js & Linux** 
 - 📫 How to reach me **Rafaelsf013@gmail.com**
