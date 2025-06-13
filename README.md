@@ -1,6 +1,6 @@
 <h3 align="center">Developer | from Brazil</h3>
 
-- 💬 Ask me about **PHP | Node | React | React Native | Laravel | SQL | AWS | Git | API's**
+- 💬 Ask me about **PHP & Nest.js **
 - 📫 Rafaelsf013@gmail.com
 
 <p align="left">
