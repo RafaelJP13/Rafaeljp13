@@ -1,6 +1,6 @@
 <h3 align="center">Developer | from Brazil</h3>
 
-- 💬 Ask me about **PHP & Nest.js **
+- 💬 Ask me about **PHP | Nest.js | SQL | Git | AWS **
 - 📫 Rafaelsf013@gmail.com
 
 <p align="left">
