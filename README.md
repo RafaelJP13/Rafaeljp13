@@ -8,9 +8,9 @@ Hello! My name is **Rafael Santos**, I'm from **São Paulo, Brazil 🇧🇷**
 
 ## 🚀 About me
 
-✨ I have been working as a **Software Developer since 2018**
-📚 Currently learning **AI Engineering and Spec Engineering**
-🎯 Goal: Become a **specialist in AI-driven systems**
+✨ I have been working as a **Software Developer since 2018**<br>
+📚 Currently learning **AI Engineering and Spec Engineering**<br>
+🎯 Goal: Become a **specialist in AI-driven systems**<br>
 
 💡 I enjoy **analyzing business processes and improving workflows through technology.**
 
