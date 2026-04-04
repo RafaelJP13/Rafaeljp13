@@ -1,9 +1,27 @@
-<h3 align="center">Developer | from Brazil</h3>
+<h1 align="left">AI / Spec Engineer</h1>
 
-- 💬 Ask me about **PHP | Node.js | Python | SQL | Git | AWS **
-- 📫 Rafaelsf013@gmail.com
-<p align="left">
-<a href="https://www.linkedin.com/in/rafael-fernandes-091b8914b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
-</p>
+###
 
+<p align="left">My name is Rafael Santos and I'm from São Paulo/Brazil</p>
 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I work like programmer since 2018<br>📚 I'm currently learning AI / Spec Engineer <br>🎯 Goals: Become AI / Spec Engineer<br></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NODEJS logo"  />
+</div>
+
+###
