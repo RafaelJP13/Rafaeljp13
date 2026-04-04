@@ -1,27 +1,38 @@
-<h1 align="left">AI / Spec Engineer</h1>
+# 👨‍💻 Rafael Santos
 
-###
+**AI / Spec Engineer**
 
-<p align="left">My name is Rafael Santos and I'm from São Paulo/Brazil</p>
+Hello! My name is **Rafael Santos**, I'm from **São Paulo, Brazil 🇧🇷**
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About me
 
-###
+✨ I have been working as a **Software Developer since 2018**
+📚 Currently learning **AI Engineering and Spec Engineering**
+🎯 Goal: Become a **specialist in AI-driven systems**
 
-<p align="left">✨ I work like programmer since 2018<br>📚 I'm currently learning AI / Spec Engineer <br>🎯 Goals: Become AI / Spec Engineer<br></p>
+💡 I enjoy **analyzing business processes and improving workflows through technology.**
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🛠️ Tech Stack
 
-###
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NODEJS logo"  />
-</div>
+---
 
-###
+## ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## 📫 Contact me
+
+📧 Email: **[rafaelsf013@gmail.com](mailto:rafaelsf013@gmail.com)**
+
+---
