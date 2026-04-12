@@ -12,7 +12,8 @@ Hello! My name is **Rafael Santos**, I'm from **São Paulo, Brazil 🇧🇷**
 📚 Currently learning **AI Engineering and Spec Engineering**<br>
 🎯 Goal: Become a **specialist in AI-driven systems**<br>
 
-💡 I enjoy **analyzing business processes and improving workflows through technology.**
+💡 **I regularly practice and solve technical screening challenges using Python, focusing on algorithms, data structures, and problem-solving.
+**
 
 ---
 
