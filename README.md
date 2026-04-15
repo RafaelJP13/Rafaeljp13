@@ -1,8 +1,8 @@
 # 👨‍💻 Rafael Santos
 
-**AI / Spec Engineer**
+**Full-Stack Developer**
 
-Hello! My name is **Rafael Santos**, I'm from **São Paulo, Brazil 🇧🇷**
+Hello! My name is **Rafael Fernandes**, I'm from **São Paulo, Brazil 🇧🇷**
 
 ---
 
@@ -10,7 +10,7 @@ Hello! My name is **Rafael Santos**, I'm from **São Paulo, Brazil 🇧🇷**
 
 ✨ I have been working as a **Software Developer since 2018**<br>
 📚 Currently learning **AI Engineering and Spec Engineering**<br>
-🎯 Goal: Become a **specialist in AI-driven systems**<br>
+🎯 Goal: Become a **Backend Specialist**<br>
 
 💡 I regularly practice and solve technical screening challenges using Python, focusing on algorithms, data structures, and problem-solving.
 
