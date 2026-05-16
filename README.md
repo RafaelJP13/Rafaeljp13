@@ -9,7 +9,7 @@ Hello! My name is **Rafael Santos Fernandes**, I'm from **São Paulo, Brazil �
 ## 🚀 About me
 
 ✨ I have been working as a **Software Developer since 2018**<br>
-📚 Currently learning **Node.js Ecossystem<br>
+📚 Currently learning **Node.js Ecossystem**<br>
 🎯 Goal: Become a **Full-Stack Specialist**<br>
 
 💡 I regularly practice and solve technical screening challenges using Python, focusing on algorithms, data structures, and problem-solving.
