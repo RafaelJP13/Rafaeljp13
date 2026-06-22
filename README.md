@@ -12,7 +12,7 @@ Hello! My name is **Rafael Santos Fernandes**, I'm from **São Paulo, Brazil �
 📚 Currently learning **Node.js Ecossystem**<br>
 🎯 Goal: Become a **Full-Stack Specialist**<br>
 
-💡 I regularly practice and solve technical screening challenges using Javascript, focusing on algorithms, data structures, and problem-solving.
+💡 I regularly practice and solve technical screening challenges focusing on algorithms, data structures, and problem-solving.
 
 ---
 
