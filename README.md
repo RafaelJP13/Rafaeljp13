@@ -16,11 +16,14 @@ Hello! My name is **Rafael Santos Fernandes**, I'm from **São Paulo, Brazil �
 
 ## 🛠️ Tech Stack
 
-![PHP](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/hoeads/main/icns/php.png)
-![Laravel](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png)
-![MySQL](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png)
-![Git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
-![AWS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png)
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" width="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" width="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="50" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" width="50" />
+</p>
+
 
 
 ## 📫 Contact me
